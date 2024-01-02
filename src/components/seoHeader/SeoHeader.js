@@ -20,9 +20,9 @@ function SeoHeader() {
       sameAs.push(media.link);
     });
 
-  let mail = socialMediaLinks
-    .find((media) => media.link.startsWith("mailto"))
-    .link.substring("mailto:".length);
+  // let mail = socialMediaLinks
+  //   .find((media) => media.link.startsWith("mailto"))
+  //   .link.substring("mailto:".length);
   let job = experience.sections
     ?.find((section) => section.work)
     ?.experiences?.at(0);
@@ -42,7 +42,7 @@ function SeoHeader() {
     "@type": "Person",
     name: greeting.title,
     url: seo?.og?.url,
-    email: mail,
+    // email: mail,
     telephone: contactPageData.phoneSection?.subtitle,
     sameAs: sameAs,
     jobTitle: job.title,

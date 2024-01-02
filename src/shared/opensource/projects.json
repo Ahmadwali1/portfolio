@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "BoomerBot",
+      "createdAt": "Dec-20-2023",
+      "url": "https://github.com/Ahmadwali1/BoomerBot",
+      "description": "🔥 BoomerBot is a chat web app where users can interact and have a conversation with their trusty Boomer AI. Thats right! The responses to user questions are AI generated. Users can chat casually with BoomerBot or ask it serious questions for serious info! With a Chat-GPT mock up in mind, the idea behind BoomerBot was to create a fun and useful chatsite, where the AI has been trained to respond to you like a Baby Boomer would...for the the added laughter of course. Think Scrappy. Think Simple and User-Friendly.",
       "isFork": false,
       "languages": [
         {
@@ -21,31 +21,59 @@
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "React",
+          "iconifyClass": "logos:react"
+        },
+        {
+          "name": "MongoDb",
+          "iconifyClass": "logos:mongodb"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos:nodejs"
+        },
+        {
+          "name": "3rd party API",
+          "iconifyClass": "gravity-ui:abbr-api"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "Code Masters",
+      "createdAt": "Nov-2023",
+      "url": "https://github.com/Ahmadwali1/Code-Masters-/tree/main",
+      "description": "Our e-commerce site created to offer a handy resource as you dive into the world of web development.",
       "isFork": false,
       "languages": [
         {
+          "name": "HTML",
+          "iconifyClass": "logos:html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos:django"
+        },
+        {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "devicon-plain:postgresql-wordmark"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "Exercise Tracker",
+      "createdAt": "Oct-2023",
+      "url": "https://github.com/Ahmadwali1/exercise-tracker",
+      "description": "helps users set and achieve their fitness goals, whether it's weight loss, muscle gain, improved endurance, or general fitness.",
       "isFork": false,
       "languages": [
         {
@@ -57,58 +85,38 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ExpressJS",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos:nodejs"
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Memory Game",
+      "createdAt": "Sep-2023",
+      "url": "https://github.com/Ahmadwali1/Project1_Memory_Game",
+      "description": "The main goal of the game is to test your memory. The game features a grid of 16 cards. Your objective is to match pairs of cards with identical pictures before the time runs out.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     }

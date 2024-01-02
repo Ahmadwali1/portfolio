@@ -67,20 +67,14 @@ class Contact extends Component {
                 >
                   {blogSection["subtitle"]}
                 </p>
-                <div className="blogsite-btn-div">
-                  <Button
-                    text="Visit My Blogsite"
-                    newTab={true}
-                    href={blogSection.link}
-                    theme={theme}
-                  />
-                </div>
               </div>
               <div className="blog-heading-img-div">
                 {/* <img
-											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
+                  src={require(`../../assests/images/${
+                    addressSection["avatar_image_path"]}`)}
+                  alt=""
+                /> */}
+
                 <BlogsImg theme={theme} />
               </div>
             </div>
@@ -88,10 +82,12 @@ class Contact extends Component {
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
+                <img
+                  src={require(`../../assests/images/${
+                    addressSection["avatar_image_path"] || "address_image.svg"
+                  }`)}
+                  alt=""
+                />
                 <AddressImg theme={theme} />
               </div>
               <div className="address-heading-text-div">
@@ -119,14 +115,6 @@ class Contact extends Component {
                 >
                   {phoneSection["subtitle"]}
                 </p>
-                <div className="address-btn-div">
-                  <Button
-                    text="Visit on Google Maps"
-                    newTab={true}
-                    href={addressSection.location_map_link}
-                    theme={theme}
-                  />
-                </div>
               </div>
             </div>
           </Fade>
