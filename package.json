@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "Ahmad Wali Portfolio",
-  "homepage": ".",
+  "homepage": "https://github.com/Ahmadwali1/portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
@@ -43,6 +43,10 @@
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "2.0.5"
+  },
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
   },
   "browserslist": {
     "production": [
